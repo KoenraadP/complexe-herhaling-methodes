@@ -1,0 +1,21 @@
+D:\OneDrive - CREO\Creo 2023-2024\C# deel 1 @home\problemen\Pascal\methodes\methodes\bin\Debug\methodes.exe.config
+D:\OneDrive - CREO\Creo 2023-2024\C# deel 1 @home\problemen\Pascal\methodes\methodes\bin\Debug\methodes.exe
+D:\OneDrive - CREO\Creo 2023-2024\C# deel 1 @home\problemen\Pascal\methodes\methodes\bin\Debug\methodes.pdb
+D:\OneDrive - CREO\Creo 2023-2024\C# deel 1 @home\problemen\Pascal\methodes\methodes\obj\Debug\methodes.csproj.AssemblyReference.cache
+D:\OneDrive - CREO\Creo 2023-2024\C# deel 1 @home\problemen\Pascal\methodes\methodes\obj\Debug\methodes.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - CREO\Creo 2023-2024\C# deel 1 @home\problemen\Pascal\methodes\methodes\obj\Debug\methodes.frmMethods.resources
+D:\OneDrive - CREO\Creo 2023-2024\C# deel 1 @home\problemen\Pascal\methodes\methodes\obj\Debug\methodes.Properties.Resources.resources
+D:\OneDrive - CREO\Creo 2023-2024\C# deel 1 @home\problemen\Pascal\methodes\methodes\obj\Debug\methodes.csproj.GenerateResource.cache
+D:\OneDrive - CREO\Creo 2023-2024\C# deel 1 @home\problemen\Pascal\methodes\methodes\obj\Debug\methodes.csproj.CoreCompileInputs.cache
+D:\OneDrive - CREO\Creo 2023-2024\C# deel 1 @home\problemen\Pascal\methodes\methodes\obj\Debug\methodes.exe
+D:\OneDrive - CREO\Creo 2023-2024\C# deel 1 @home\problemen\Pascal\methodes\methodes\obj\Debug\methodes.pdb
+D:\OneDrive - CREO\Creo 2023-2024\complexe\code map\les03\prep\methodes\methodes\bin\Debug\methodes.exe.config
+D:\OneDrive - CREO\Creo 2023-2024\complexe\code map\les03\prep\methodes\methodes\bin\Debug\methodes.exe
+D:\OneDrive - CREO\Creo 2023-2024\complexe\code map\les03\prep\methodes\methodes\bin\Debug\methodes.pdb
+D:\OneDrive - CREO\Creo 2023-2024\complexe\code map\les03\prep\methodes\methodes\obj\Debug\methodes.csproj.AssemblyReference.cache
+D:\OneDrive - CREO\Creo 2023-2024\complexe\code map\les03\prep\methodes\methodes\obj\Debug\methodes.frmMethods.resources
+D:\OneDrive - CREO\Creo 2023-2024\complexe\code map\les03\prep\methodes\methodes\obj\Debug\methodes.Properties.Resources.resources
+D:\OneDrive - CREO\Creo 2023-2024\complexe\code map\les03\prep\methodes\methodes\obj\Debug\methodes.csproj.GenerateResource.cache
+D:\OneDrive - CREO\Creo 2023-2024\complexe\code map\les03\prep\methodes\methodes\obj\Debug\methodes.csproj.CoreCompileInputs.cache
+D:\OneDrive - CREO\Creo 2023-2024\complexe\code map\les03\prep\methodes\methodes\obj\Debug\methodes.exe
+D:\OneDrive - CREO\Creo 2023-2024\complexe\code map\les03\prep\methodes\methodes\obj\Debug\methodes.pdb
