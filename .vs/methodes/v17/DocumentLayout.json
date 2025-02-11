@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\koenraad.pecceu\\Documents\\complexe\\L2\\complexe-s2324S2-L4-methodes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD241467-2CCA-4F18-8DB7-08324B4852F2}|methodes\\methodes.csproj|c:\\users\\koenraad.pecceu\\documents\\complexe\\l2\\complexe-s2324s2-l4-methodes\\methodes\\frmmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD241467-2CCA-4F18-8DB7-08324B4852F2}|methodes\\methodes.csproj|solutionrelative:methodes\\frmmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD241467-2CCA-4F18-8DB7-08324B4852F2}|methodes\\methodes.csproj|c:\\users\\koenraad.pecceu\\documents\\complexe\\l2\\complexe-s2324s2-l4-methodes\\methodes\\frmmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD241467-2CCA-4F18-8DB7-08324B4852F2}|methodes\\methodes.csproj|solutionrelative:methodes\\frmmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMethods.cs",
+              "DocumentMoniker": "C:\\Users\\koenraad.pecceu\\Documents\\complexe\\L2\\complexe-s2324S2-L4-methodes\\methodes\\frmMethods.cs",
+              "RelativeDocumentMoniker": "methodes\\frmMethods.cs",
+              "ToolTip": "C:\\Users\\koenraad.pecceu\\Documents\\complexe\\L2\\complexe-s2324S2-L4-methodes\\methodes\\frmMethods.cs",
+              "RelativeToolTip": "methodes\\frmMethods.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAxwFoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:46:08.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMethods.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\koenraad.pecceu\\Documents\\complexe\\L2\\complexe-s2324S2-L4-methodes\\methodes\\frmMethods.cs",
+              "RelativeDocumentMoniker": "methodes\\frmMethods.cs",
+              "ToolTip": "C:\\Users\\koenraad.pecceu\\Documents\\complexe\\L2\\complexe-s2324S2-L4-methodes\\methodes\\frmMethods.cs [Design]",
+              "RelativeToolTip": "methodes\\frmMethods.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:45:46.873Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

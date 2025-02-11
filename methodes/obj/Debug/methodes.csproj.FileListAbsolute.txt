@@ -19,3 +19,13 @@ D:\OneDrive - CREO\Creo 2023-2024\complexe\code map\les03\prep\methodes\methodes
 D:\OneDrive - CREO\Creo 2023-2024\complexe\code map\les03\prep\methodes\methodes\obj\Debug\methodes.csproj.CoreCompileInputs.cache
 D:\OneDrive - CREO\Creo 2023-2024\complexe\code map\les03\prep\methodes\methodes\obj\Debug\methodes.exe
 D:\OneDrive - CREO\Creo 2023-2024\complexe\code map\les03\prep\methodes\methodes\obj\Debug\methodes.pdb
+C:\Users\koenraad.pecceu\Documents\complexe\L2\complexe-s2324S2-L4-methodes\methodes\bin\Debug\methodes.exe.config
+C:\Users\koenraad.pecceu\Documents\complexe\L2\complexe-s2324S2-L4-methodes\methodes\bin\Debug\methodes.exe
+C:\Users\koenraad.pecceu\Documents\complexe\L2\complexe-s2324S2-L4-methodes\methodes\bin\Debug\methodes.pdb
+C:\Users\koenraad.pecceu\Documents\complexe\L2\complexe-s2324S2-L4-methodes\methodes\obj\Debug\methodes.csproj.AssemblyReference.cache
+C:\Users\koenraad.pecceu\Documents\complexe\L2\complexe-s2324S2-L4-methodes\methodes\obj\Debug\methodes.frmMethods.resources
+C:\Users\koenraad.pecceu\Documents\complexe\L2\complexe-s2324S2-L4-methodes\methodes\obj\Debug\methodes.Properties.Resources.resources
+C:\Users\koenraad.pecceu\Documents\complexe\L2\complexe-s2324S2-L4-methodes\methodes\obj\Debug\methodes.csproj.GenerateResource.cache
+C:\Users\koenraad.pecceu\Documents\complexe\L2\complexe-s2324S2-L4-methodes\methodes\obj\Debug\methodes.csproj.CoreCompileInputs.cache
+C:\Users\koenraad.pecceu\Documents\complexe\L2\complexe-s2324S2-L4-methodes\methodes\obj\Debug\methodes.exe
+C:\Users\koenraad.pecceu\Documents\complexe\L2\complexe-s2324S2-L4-methodes\methodes\obj\Debug\methodes.pdb
